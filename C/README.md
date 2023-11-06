@@ -1,1 +1,1 @@
-Repository to hold C programs created during school.
+Repository to hold the C programs created during school.

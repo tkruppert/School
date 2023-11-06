@@ -1,1 +1,1 @@
-Repository to hold Python programs created during school.
+Repository to hold the Python programs created during school.

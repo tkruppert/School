@@ -1,1 +1,1 @@
-Repository to cheat sheets created from my notes from school.
+Repository to hold cheat sheets created from my school notes.
